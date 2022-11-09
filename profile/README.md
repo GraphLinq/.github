@@ -1,3 +1,3 @@
 # GraphLinq Protocol
 
-Test
+Welcome to the GraphLinq GitHub repository.
