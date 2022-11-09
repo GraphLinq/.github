@@ -4,13 +4,13 @@ The nocode platform for developing web3 applications. Allowing the average user 
 
 ## Links
 
-- 🌐 [GraphLinq Website](graphlinq.io)
-- 📈 [GraphLinq IDE](ide.graphlinq.io)
-- 🖥️ [GraphLinq AppInterface](app.graphlinq.io)
-- 🎪 [GraphLinq Marketplace](marketplace.graphlinq.io)
-- 📊 [GraphLinq Analytics](analytics.graphlinq.io)
-- 📃 [GraphLinq Documentation](docs.graphlinq.io)
+- 🌐 [GraphLinq Website](https://graphlinq.io)
+- 📈 [GraphLinq IDE](https://ide.graphlinq.io)
+- 🖥️ [GraphLinq AppInterface](https://app.graphlinq.io)
+- 🎪 [GraphLinq Marketplace](https://marketplace.graphlinq.io)
+- 📊 [GraphLinq Analytics](https://analytics.graphlinq.io)
+- 📃 [GraphLinq Documentation](https://docs.graphlinq.io)
 
 ## Chat
 
-- ☎️ [Telegram](t.me/graphlinq)
+- ☎️ [Telegram](https://t.me/graphlinq)
