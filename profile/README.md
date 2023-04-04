@@ -15,7 +15,6 @@ The no-code blockchain for Web3 Automation & dApps. Allowing the average user to
 - :computer: [GraphLinq Chain Network Status](https://status.graphlinq.io)
 - :mag_right: [GraphLinq Chain Explorer](https://explorer.graphlinq.io)
 - :chains: [How to Connect and Full Documentation](https://docs.graphlinq.io/graphlinq-chain/networks/graphlinq-chain-mainnet/wallet/add-graphlinq-chain-to-metamask)
-- :bridge_at_night: ETH <> GraphLinq Bridge (coming soon) 
 
 ## Chat
 
