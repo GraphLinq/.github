@@ -19,7 +19,7 @@ The no-code blockchain for Web3 Automation & dApps. Allowing the average user to
 ## Chat
 
 - :phone: [Telegram](https://t.me/graphlinq)
-- :speech_balloon: [Discord](https://discord.com/invite/w3qG33vNp9)
+- :speech_balloon: [Discord](https://glq.link/discord)
 
 ## Social
 - :bird: [Twitter](https://twitter.com/graphlinq_proto)
